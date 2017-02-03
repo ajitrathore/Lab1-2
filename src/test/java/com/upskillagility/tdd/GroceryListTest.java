@@ -24,6 +24,7 @@ public class GroceryListTest {
 
 
         //Given we have a new Object to add to our shopping list
+
         Object itemForShopping = new Object();
 
         // when we add this new item to the shopping list
